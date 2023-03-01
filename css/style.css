@@ -36,3 +36,12 @@
 
     left: 80px;
 }
+
+.footer{
+    background-color: #005677;
+    color: #C4C4C4;
+    font-weight: 700;
+    font-size: 20px;
+    text-align: center;
+    padding: 0.2rem;
+}
