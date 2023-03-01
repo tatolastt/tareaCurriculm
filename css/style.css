@@ -9,4 +9,30 @@
     font-weight: 700;
     font-size: 35px;
     line-height: 84.69%;
+    padding: 0.2rem;
+    margin-bottom: 200px;
+}
+
+.tituloDatos{
+    margin-top: 20px;
+    background-color: #C4C4C4;
+    color: #005677;
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.negrita{
+    font-weight: 900;
+}
+
+.textoDatos{
+    padding: 0;
+    margin: 0;
+}
+
+.textoDatosAgregado{
+    position: relative;
+    bottom:15px;
+
+    left: 80px;
 }
